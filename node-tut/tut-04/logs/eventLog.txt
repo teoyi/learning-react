@@ -1,0 +1,4 @@
+20220204	15:59:23	18446038-fd11-4bc3-a7a6-ab8dccca11c0	Log event emitted!20220204	16:00:11	7ca50b4b-c4c4-465e-826f-1d1aef6ea6b5	Log event emitted!
+
+20220204	16:00:46	223b21ac-952f-4fff-acff-f3eb63027a7e	Log event emitted!
+20220204	16:00:53	1be91ec3-0a9f-4c22-ba43-f8f467c6ce21	Log event emitted!
